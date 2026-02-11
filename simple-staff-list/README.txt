@@ -2,7 +2,7 @@
 Contributors: brettshumaker
 Tags: staff list, staff directory, employee list, staff, employee, employees
 Requires at least: 3.0
-Tested up to: 6.3.2
+Tested up to: 6.8.0
 Requires PHP: 5.4
 Stable tag: 2.2.5
 License: GPLv2 or later
